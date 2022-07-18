@@ -1,2 +1,2 @@
 # PaginaDocente
- Pagina docenNivelaTechBrasil
+ Pagina docenteNivelaTechBrasil
